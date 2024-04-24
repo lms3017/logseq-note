@@ -4,3 +4,4 @@
 		  brew install --cask raycast
 		  ```
 - 기본설정
+	-
