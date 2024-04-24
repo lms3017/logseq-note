@@ -1,0 +1,24 @@
+- 설치 및 구성
+  id:: 660cab54-5bb0-4523-834c-38146a53596a
+	- 개발 도구
+		- [[homebrew]]
+		- [[iTerm2]]
+		- vscode
+		- doker
+		- bun
+		- [[pyenv]]
+		- [[nvm]]
+	- 커뮤니케이션 및 협업
+		- slack
+	- 문서 관리
+		- notion
+		- logseq
+	- 기타
+		- [[giphycapture]]
+-
+- 컴퓨터 설정
+	- 파인더에 홈 추가 방법
+	- 메신저, 메일 앱에 알람표시
+-
+- 아카이브
+	- mac이용시 유용한 팁

@@ -1,0 +1,673 @@
+{:blocks (
+{:block/created-at 1712451964901
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 0
+:scale [1 1]
+:type "image"
+:assetId "b09bafb0-f478-11ee-a8ed-5b08d4c8e751"
+:size [652.23828125 549.7573765602057]
+:opacity 1
+:id "b09c4bf0-f478-11ee-a8ed-5b08d4c8e751"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [448 -248]
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712450969865
+:clipping 0}}
+:block/updated-at 1712451964901} 
+{:block/created-at 1712453685866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [200 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "4가지기술"
+:id "60697c10-f479-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1432 136]
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451245537
+:italic false}}
+:block/updated-at 1712453685866} 
+{:block/created-at 1712453685866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 2
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [200 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "인공지능"
+:id "67cf40c0-f479-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1752 376]
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451277962
+:italic false}}
+:block/updated-at 1712453685866} 
+{:block/created-at 1712453685866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "67cf40c1-f479-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill true
+:point [1576 201]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "67cf40c2-f479-11ee-a8ed-5b08d4c8e751"}
+:end 
+{:id "end"
+:canBind true
+:point [228 171]
+:bindingId "67cf40c3-f479-11ee-a8ed-5b08d4c8e751"}}
+:decorations 
+{:end "arrow"}
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451277577
+:italic false}}
+:block/updated-at 1712453685866} 
+{:block/created-at 1712453685866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 4
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [200 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "가상현실"
+:id "6bffcb10-f479-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1752 -16]
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451284740
+:italic false}}
+:block/updated-at 1712453685866} 
+{:block/created-at 1712453685866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6bffcb11-f479-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill true
+:point [1601.47 52]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 83]
+:bindingId "6bfff220-f479-11ee-a8ed-5b08d4c8e751"}
+:end 
+{:id "end"
+:canBind true
+:point [174.74 0]
+:bindingId "6bfff221-f479-11ee-a8ed-5b08d4c8e751"}}
+:decorations 
+{:end "arrow"}
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451284563
+:italic false}}
+:block/updated-at 1712453685866} 
+{:block/created-at 1712453685861
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 6
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [200 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "나노기술"
+:id "70dd5e40-f479-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1752 112]
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451292905
+:italic false}}
+:block/updated-at 1712453685861} 
+{:block/created-at 1712453685866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "70dd8550-f479-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill true
+:point [1633 151.8]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 8.63]
+:bindingId "70dd8551-f479-11ee-a8ed-5b08d4c8e751"}
+:end 
+{:id "end"
+:canBind true
+:point [115 0]
+:bindingId "70dd8552-f479-11ee-a8ed-5b08d4c8e751"}}
+:decorations 
+{:end "arrow"}
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451292814
+:italic false}}
+:block/updated-at 1712453685866} 
+{:block/created-at 1712453685866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "97316141-f479-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill true
+:point [1626.29 201]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "97316142-f479-11ee-a8ed-5b08d4c8e751"}
+:end 
+{:id "end"
+:canBind true
+:point [122.85 43]
+:bindingId "97318850-f479-11ee-a8ed-5b08d4c8e751"}}
+:decorations 
+{:end "arrow"}
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451357030
+:italic false}}
+:block/updated-at 1712453685866} 
+{:block/created-at 1712453685866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 8
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [200 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "사물인터넷"
+:id "97316140-f479-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1752 248]
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451357367
+:italic false}}
+:block/updated-at 1712453685866} 
+{:block/created-at 1712452360121
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [200 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "서론"
+:id "317a7340-f47a-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1280 -208]
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712451244625
+:italic false}}
+:block/updated-at 1712452360121} 
+{:block/created-at 1712453675906
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "68ce80f1-f47c-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill true
+:point [1481 -172.98]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "68ce80f2-f47c-11ee-a8ed-5b08d4c8e751"}
+:end 
+{:id "end"
+:canBind true
+:point [75 2.25]
+:bindingId "68ce80f3-f47c-11ee-a8ed-5b08d4c8e751"}}
+:decorations 
+{:end "arrow"}
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712452566822
+:italic false}}
+:block/updated-at 1712453675906} 
+{:block/created-at 1712453675902
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 11
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [976 184]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "68ce80f0-f47c-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [1560 -248]
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712452567521
+:italic false}}
+:block/updated-at 1712453675902} 
+{:block/created-at 1712617191110
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [874 106]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7928e7b0-f47c-11ee-a8ed-5b08d4c8e751"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1584 -224]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712452594773
+:italic false
+:text "유비쿼터스란 '통신이 가능한 컴퓨터가 어디든지 존재하는 세상'을 말한다. \n유비쿼터스 컴퓨팅의 등장으로 더 이상 컴퓨터가 특정 장소에 한정되지 않고, \n사람들의 일상생활과 밀접하게 통합 되었다.\n이러한 유비쿼터스 컴퓨팅 기술중 가상현실, 나노기술, 사물인터넷, 인공지능에 대해 자세하게 설명하고자 한다."}}
+:block/updated-at 1712617191110} 
+{:block/created-at 1712453685866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "9ecd49c2-f47c-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill true
+:point [1386.01 -143]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "9ecd49c0-f47c-11ee-a8ed-5b08d4c8e751"}
+:end 
+{:id "end"
+:canBind true
+:point [50.09 275]
+:bindingId "9ecd49c1-f47c-11ee-a8ed-5b08d4c8e751"}}
+:decorations 
+{:end "arrow"}
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712452658021
+:italic false}}
+:block/updated-at 1712453685866} 
+{:block/created-at 1712455559906
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 16
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0cfd39d1-f47f-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill true
+:point [1953 30.36]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "0cfd39d2-f47f-11ee-a8ed-5b08d4c8e751"}
+:end 
+{:id "end"
+:canBind true
+:point [99 14.07]
+:bindingId "0cfd39d3-f47f-11ee-a8ed-5b08d4c8e751"}}
+:decorations 
+{:end "arrow"}
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712453701255
+:italic false}}
+:block/updated-at 1712455559906} 
+{:block/created-at 1712455559900
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 15
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [1224 296]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "0cfd39d0-f47f-11ee-a8ed-5b08d4c8e751"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [2056 -16]
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712453701837
+:italic false}}
+:block/updated-at 1712455559900} 
+{:block/created-at 1712455557445
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 17
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [1145 250]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1207d070-f47f-11ee-a8ed-5b08d4c8e751"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [2080 0]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:nonce 1712452595472
+:italic false
+:text "가상현실(Virtual Reality, VR)은 현실적으로 느껴지는 가상 세계를 컴퓨터 기술을 이용하여 만들어내는 첨단 기술이다.\n사용자는 현실과 구분할 수 없는 가상의 공간에서 현실에서 불가능한 경험을 체험할 수 있다.\n가상현실은 게임, 교육, 의료, 여행, 디자인등의 다양한 산업에서도 활용되고 있다.\n\n가상현실은 주로 3D 그래픽과 사운드를 결합하여 사용자에게 사실적인 환경을 제공한다. \n또한, 사용자의 움직임을 감지하고 반응하는 트래킹 시스템을 사용하여 실제로 그 공간 안에 있는 듯한 체험을 할 수 있다.\n\n가상현실 기술은  중요한 역할을 하고 있다.\n학생들은 가상 환경에서 역사적인 사건을 체험하거나 과학 실험을 시뮬레이션할 수 있어 보다 좋은 학습효과를 얻을 수 있게 됬다.\n의료 분야에서는 의사들이 수술 전에 가상의 환자를 다루는 훈련을 받거나, 실제 환경에서는 어려운 수술들을 안전하게 연습할 수 있도록 도와준다."}}
+:block/updated-at 1712455557445})
+:pages (
+{:block/uuid #uuid "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6611ed66-157a-4f72-981f-8fcc03bfbdcf"
+:name "유비쿼터스 과제"
+:bindings 
+{:6bfff221-f479-11ee-a8ed-5b08d4c8e751 
+{:id "6bfff221-f479-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "6bffcb11-f479-11ee-a8ed-5b08d4c8e751"
+:toId "6bffcb10-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:68ce80f2-f47c-11ee-a8ed-5b08d4c8e751 
+{:id "68ce80f2-f47c-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "68ce80f1-f47c-11ee-a8ed-5b08d4c8e751"
+:toId "317a7340-f47a-11ee-a8ed-5b08d4c8e751"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:0cfd39d3-f47f-11ee-a8ed-5b08d4c8e751 
+{:id "0cfd39d3-f47f-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "0cfd39d1-f47f-11ee-a8ed-5b08d4c8e751"
+:toId "0cfd39d0-f47f-11ee-a8ed-5b08d4c8e751"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:97316142-f479-11ee-a8ed-5b08d4c8e751 
+{:id "97316142-f479-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "97316141-f479-11ee-a8ed-5b08d4c8e751"
+:toId "60697c10-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:70dd8551-f479-11ee-a8ed-5b08d4c8e751 
+{:id "70dd8551-f479-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "70dd8550-f479-11ee-a8ed-5b08d4c8e751"
+:toId "60697c10-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:70dd8552-f479-11ee-a8ed-5b08d4c8e751 
+{:id "70dd8552-f479-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "70dd8550-f479-11ee-a8ed-5b08d4c8e751"
+:toId "70dd5e40-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:9ecd49c1-f47c-11ee-a8ed-5b08d4c8e751 
+{:id "9ecd49c1-f47c-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "9ecd49c2-f47c-11ee-a8ed-5b08d4c8e751"
+:toId "60697c10-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "end"
+:point [0.09 0.81]
+:distance 4}
+:9ecd49c0-f47c-11ee-a8ed-5b08d4c8e751 
+{:id "9ecd49c0-f47c-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "9ecd49c2-f47c-11ee-a8ed-5b08d4c8e751"
+:toId "317a7340-f47a-11ee-a8ed-5b08d4c8e751"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:68ce80f3-f47c-11ee-a8ed-5b08d4c8e751 
+{:id "68ce80f3-f47c-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "68ce80f1-f47c-11ee-a8ed-5b08d4c8e751"
+:toId "68ce80f0-f47c-11ee-a8ed-5b08d4c8e751"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:97318850-f479-11ee-a8ed-5b08d4c8e751 
+{:id "97318850-f479-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "97316141-f479-11ee-a8ed-5b08d4c8e751"
+:toId "97316140-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:6bfff220-f479-11ee-a8ed-5b08d4c8e751 
+{:id "6bfff220-f479-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "6bffcb11-f479-11ee-a8ed-5b08d4c8e751"
+:toId "60697c10-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:67cf40c2-f479-11ee-a8ed-5b08d4c8e751 
+{:id "67cf40c2-f479-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "67cf40c1-f479-11ee-a8ed-5b08d4c8e751"
+:toId "60697c10-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:0cfd39d2-f47f-11ee-a8ed-5b08d4c8e751 
+{:id "0cfd39d2-f47f-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "0cfd39d1-f47f-11ee-a8ed-5b08d4c8e751"
+:toId "6bffcb10-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:67cf40c3-f479-11ee-a8ed-5b08d4c8e751 
+{:id "67cf40c3-f479-11ee-a8ed-5b08d4c8e751"
+:type "line"
+:fromId "67cf40c1-f479-11ee-a8ed-5b08d4c8e751"
+:toId "67cf40c0-f479-11ee-a8ed-5b08d4c8e751"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets [
+{:id "b09bafb0-f478-11ee-a8ed-5b08d4c8e751"
+:type "image"
+:src "../assets/image_1712450969101_0.png"
+:size [681 574]}]
+:shapes-index ("b09c4bf0-f478-11ee-a8ed-5b08d4c8e751" "60697c10-f479-11ee-a8ed-5b08d4c8e751" "67cf40c0-f479-11ee-a8ed-5b08d4c8e751" "67cf40c1-f479-11ee-a8ed-5b08d4c8e751" "6bffcb10-f479-11ee-a8ed-5b08d4c8e751" "6bffcb11-f479-11ee-a8ed-5b08d4c8e751" "70dd5e40-f479-11ee-a8ed-5b08d4c8e751" "70dd8550-f479-11ee-a8ed-5b08d4c8e751" "97316140-f479-11ee-a8ed-5b08d4c8e751" "97316141-f479-11ee-a8ed-5b08d4c8e751" "317a7340-f47a-11ee-a8ed-5b08d4c8e751" "68ce80f0-f47c-11ee-a8ed-5b08d4c8e751" "68ce80f1-f47c-11ee-a8ed-5b08d4c8e751" "7928e7b0-f47c-11ee-a8ed-5b08d4c8e751" "9ecd49c2-f47c-11ee-a8ed-5b08d4c8e751" "0cfd39d0-f47f-11ee-a8ed-5b08d4c8e751" "0cfd39d1-f47f-11ee-a8ed-5b08d4c8e751" "1207d070-f47f-11ee-a8ed-5b08d4c8e751")}}
+:block/updated-at 1712617191109
+:block/created-at 1712450918508
+:block/type "whiteboard"
+:block/name "유비쿼터스 과제"
+:block/original-name "유비쿼터스 과제"})}
