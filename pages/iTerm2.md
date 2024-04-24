@@ -60,11 +60,8 @@
 		- iTerm2의 설정에서 테마 임포트후 지정
 			- ![image.png](../assets/image_1713943896077_0.png)
 	- 상태바 설정
-		- configure status bar
-		- ![image.png](../assets/image_1713944351283_0.png)
-		- ![image.png](../assets/image_1713422811792_0.png)
-		- ![image.png](../assets/image_1713422883707_0.png)
-		-
+		- configure status bar클릭 -> 추가하고 싶은 거 추가
+			- ![image.png](../assets/image_1713944351283_0.png)
 - 단축키 / 사용법
 -
 - 참고
