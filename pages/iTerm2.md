@@ -50,7 +50,7 @@
 	- 폰트 적용
 		- [d2폰트](https://github.com/naver/d2codingfont/?tab=readme-ov-file)설치
 		- 적용
-			- ![image.png](../assets/image_1713421962332_0.png)
+			- ![image.png](../assets/image_1713942399719_0.png)
 	- 컬러 테마 적용
 		- [https://iterm2colorschemes.com/](https://iterm2colorschemes.com/)에서 원하는 컬러테마 선택
 		- 적당한 경로로 이동후 컬러 테마 다운로드
