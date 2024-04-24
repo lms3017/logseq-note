@@ -15,6 +15,7 @@
 		- logseq
 	- 기타
 		- [[giphycapture]]
+		- [[raycast]]
 -
 - 컴퓨터 설정
 	- 파인더에 홈 추가 방법
