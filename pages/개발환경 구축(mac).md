@@ -3,7 +3,6 @@
 	- 개발 도구
 		- [[homebrew]]
 		- [[iTerm2]]
-		- [[raycast]]
 		- vscode
 		- doker
 		- bun

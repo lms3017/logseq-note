@@ -1,4 +1,4 @@
-- 설치방법
+- 설치
 	- brew로 설치
 		- ```shell
 		  brew install --cask raycast
