@@ -3,7 +3,7 @@
 - ssh 설정
 	- ```shell
 	  cd ~/.ssh ## 없으면 디렉토리 생성 후 이동
-	  ssh-keygen -t rsa -C [메일주소] -f [ssh 파일이름] ##이후 비번입력 따로 안할꺼면 엔터 두번
+	  ssh-keygen -t rsa -C [메일주소] -f [ssh 파일이름] ## 이후 비번입력 따로 안할꺼면 엔터 두번
 	  eval "$(ssh-agent -s)" ## 기존 에이전트정보 확인하거나 새로운 ssh-agent 실행
 	  ssh-add ~/.ssh/[ssh 파일이름] ## ssh-agent에 ssh-key 추가
 	  ssh-add -l ## 추가 됬는지 확인
@@ -21,6 +21,8 @@
 	  new ssh key 클릭 -> title 엔 식별가능하게 쓰고 key에는 복사한 내용을 붙여넣는다
 	  
 	  ssh -T git@[호스트 별칭] ## 연결확인 테스트. 처음 연결 확인하면 yes를 눌러주면됨 known_hosts, known_hosts.old 가 생긴다
+	  
+	  ## clone할때
 	  
 	  
 	  git config user.email [메일명] ## 전역에 설정된 값이 들어가서 설정해 줘야됨
