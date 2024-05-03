@@ -2,21 +2,21 @@
 	- ```shell
 	  brew install nvm
 	  ```
-	- 환경변수 설정
-		- 디렉토리 생성
-			- ```shell
-			  mkdir ~/.nvm
-			  ```
-		- .zshrc 설정
-			- ```shell
-			  export NVM_DIR="$HOME/.nvm"
-			  [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
-			  [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
-			  ```
-		- 적용
-			- ```shell
-			  source ~/.zshrc
-			  ```
+- 환경변수 설정
+	- 디렉토리 생성
+		- ```shell
+		  mkdir ~/.nvm
+		  ```
+	- .zshrc 설정
+		- ```shell
+		  export NVM_DIR="$HOME/.nvm"
+		  [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
+		  [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
+		  ```
+	- 적용
+		- ```shell
+		  source ~/.zshrc
+		  ```
 - nvm 명령어/사용법
 	- nvm 버전확인
 		- ```shell
