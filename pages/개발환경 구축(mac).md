@@ -5,7 +5,7 @@
 		- [[iTerm2]]
 		- [[vscode]]
 		- [[doker]]
-		- [[bun]]
+		- [[bun]] - node 버전관리
 		- [[pyenv]]
 		- [[nvm]]
 		- [[git, github]]
