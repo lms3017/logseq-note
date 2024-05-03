@@ -1,8 +1,7 @@
 - 설치
-	- brew로 nvm 설치
-		- ```shell
-		  brew install nvm
-		  ```
+	- ```shell
+	  brew install nvm
+	  ```
 	- 환경변수 설정
 		- 디렉토리 생성
 			- ```shell
