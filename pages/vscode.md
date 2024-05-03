@@ -3,7 +3,7 @@
 		- ```shell
 		  brew install --cask visual-studio-code
 		  ```
-- 초기설정
+- 
 	- setting.json
 		- ```json
 		  {
