@@ -51,6 +51,5 @@
 			  pyenv shell [특정버전]
 			  ```
 -
--
 - 참고
 	- https://deku.posstree.com/ko/environment/pyenv/
