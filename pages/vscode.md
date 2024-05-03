@@ -20,5 +20,5 @@
 		  ```
 	-
 - 동기화
-	- 링크참고
+	- [링크](https://velog.io/@leesjpr/VS-Code-%EB%8F%99%EA%B8%B0%ED%99%94-%EC%82%AC%EC%9A%A9) 참고
 -
