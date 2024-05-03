@@ -5,7 +5,7 @@
 		- [[iTerm2]]
 		- [[vscode]]
 		- [[doker]]
-		- bun
+		- [[bun]]
 		- [[pyenv]]
 		- [[nvm]]
 	- 커뮤니케이션 및 협업
