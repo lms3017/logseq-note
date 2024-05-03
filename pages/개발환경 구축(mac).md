@@ -4,7 +4,7 @@
 		- [[homebrew]]
 		- [[iTerm2]]
 		- [[vscode]]
-		- doker
+		- [[doker]]
 		- bun
 		- [[pyenv]]
 		- [[nvm]]
