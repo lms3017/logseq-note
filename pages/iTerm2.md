@@ -4,6 +4,7 @@
 		  brew install --cask iterm2
 		  ```
 - iTerm2 꾸미기
+  collapsed:: true
 	- Oh-My-Zsh 설치s
 		- ```shell
 		  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -64,6 +65,7 @@
 			- ![image.png](../assets/image_1713944351283_0.png)
 - 단축키 / 사용법
 -
+- test
 - 참고
   collapsed:: true
 	- https://velog.io/@yejin25/iTerm-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A6%88-%ED%95%98%EA%B8%B0
