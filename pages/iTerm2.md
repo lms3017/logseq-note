@@ -3,7 +3,7 @@
 		- ```shell
 		  brew install --cask iterm2
 		  ```
-- iTerm2 꾸미기s
+- iTerm2 꾸미기
 	- Oh-My-Zsh 설치s
 		- ```shell
 		  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
