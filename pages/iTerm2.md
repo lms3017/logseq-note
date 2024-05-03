@@ -64,5 +64,8 @@
 			- ![image.png](../assets/image_1713944351283_0.png)
 - 단축키 / 사용법
 -
+- 아카이브
+	-
 - 참고
+  collapsed:: true
 	- https://velog.io/@yejin25/iTerm-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A6%88-%ED%95%98%EA%B8%B0
