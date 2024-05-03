@@ -3,5 +3,6 @@
 		- ```shell
 		  brew install --cask visual-studio-code
 		  ```
-- 필수 익스텐션
+- 초기설정
+	-
 	-
