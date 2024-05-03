@@ -1,8 +1,7 @@
 - 설치
-	-
-		- ```shell
-		  brew install pyenv
-		  ```
+	- ```shell
+	  brew install pyenv
+	  ```
 	- tcl-tk 설치
 		- ```shell
 		  brew install tcl-tk
