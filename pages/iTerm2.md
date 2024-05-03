@@ -1,8 +1,7 @@
 - 설치
-	- brew로 iTerm2 설치
-		- ```shell
-		  brew install --cask iterm2
-		  ```
+	- ```shell
+	  brew install --cask iterm2
+	  ```
 - iTerm2 꾸미기
   collapsed:: true
 	- Oh-My-Zsh 설치
