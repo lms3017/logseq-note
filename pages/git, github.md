@@ -29,3 +29,4 @@
 	  git config user.name [이름]
 	  ```
 -
+-
