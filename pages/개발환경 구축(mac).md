@@ -10,7 +10,7 @@
 		- [[nvm]]
 		- [[git, github]]
 	- 커뮤니케이션 및 협업
-		- slack
+		- [[slack]]
 	- 문서 관리
 		- notion
 		- logseq
