@@ -23,8 +23,9 @@
 	  ssh -T git@[호스트 별칭] ## 연결확인 테스트. 처음 연결 확인하면 yes를 눌러주면됨 known_hosts, known_hosts.old 가 생긴다
 	  
 	  ## clone할때 아래의 형식대로 입력하도록 주의
-	  git clore git@[호스트 별칭]:[레파지토리경로]
+	  git clone git@[호스트 별칭]:[레파지토리경로]
 	  
 	  git config user.email [메일명] ## 전역에 설정된 값이 들어가서 설정해 줘야됨
 	  git config user.name [이름]
 	  ```
+-
