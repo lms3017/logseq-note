@@ -3,6 +3,7 @@
 	- 개발 도구
 		- [[homebrew]]
 		- [[iTerm2]]
+		-
 		- vscode
 		- doker
 		- bun
