@@ -1,5 +1,5 @@
 - 설치
-	- brew로 pyenv 설치
+	-
 		- ```shell
 		  brew install pyenv
 		  ```
