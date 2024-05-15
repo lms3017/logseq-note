@@ -1,6 +1,7 @@
 - git 설치
 	- mac에서는 기본으로 git이 설치되어 있음.
 - ssh 설정
+  collapsed:: true
 	- ```shell
 	  cd ~/.ssh ## 없으면 디렉토리 생성 후 이동
 	  ssh-keygen -t rsa -C [메일주소] -f [ssh 파일이름] ## 이후 비번입력 따로 안할꺼면 엔터 두번
@@ -28,5 +29,8 @@
 	  git config user.email [메일명] ## 전역에 설정된 값이 들어가서 설정해 줘야됨
 	  git config user.name [이름]
 	  ```
--
--
+- 명령어 정리
+	- 로컬 브렌치 원격 레파지토리 연결 확인
+		- ```shell
+		  git brancch -vv
+		  ```
