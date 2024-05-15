@@ -13,7 +13,7 @@
 		- [[slack]]
 	- 문서 관리
 		- notion
-		- logseq e
+		- logseq
 	- 기타
 		- [[giphycapture]]
 		- [[raycast]]
