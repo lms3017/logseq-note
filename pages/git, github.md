@@ -30,7 +30,8 @@
 	  git config user.name [이름]
 	  ```
 - 명령어 정리
-	- 로컬 브렌치 원격 레파지토리 연결 확인
-		- ```shell
-		  git brancch -vv
-		  ```
+	- git branch
+		- 로컬 브렌치 원격 레파지토리 연결 확인
+			- ```shell
+			  git branch -vv
+			  ```
