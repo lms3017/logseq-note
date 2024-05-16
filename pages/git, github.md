@@ -35,3 +35,13 @@
 			- ```shell
 			  git branch -vv
 			  ```
+		- 현재 위치한 브렌치명 변경
+			- ```shell
+			  git branch -m [새로운 브렌치명]
+			  ```
+		- 현재 위치가 아닌 브렌치명 변경
+			- ```shell
+			  git branch -m [대상 브랜치명] [새로운 브렌치명]
+			  ```
+-
+-
