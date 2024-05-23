@@ -39,9 +39,7 @@
 		  ```
 	- 특정 버전으로 전환하기
 		- 전역
-			- ```shell
-			  pyenv global [특정버전]
-			  ```
+			- pyenv global [특정버전]
 		- 현재 프로젝트에서만
 			- ```shell
 			  pyenv local [특정버전]
