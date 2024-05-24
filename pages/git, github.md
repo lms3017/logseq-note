@@ -30,6 +30,11 @@
 	  git config user.name [이름]
 	  ```
 - 명령어 정리
+	- git commit
+		- 가장 최근의 커밋 수정
+			- ```shell
+			  git commit --amend
+			  ```
 	- git branch
 		- 로컬 브렌치 원격 레파지토리 연결 확인
 			- ```shell
@@ -43,5 +48,9 @@
 			- ```shell
 			  git branch -m [대상 브랜치명] [새로운 브렌치명]
 			  ```
--
+	- git reset
+		- 해당 커밋을 취소하고 커밋 내용을 스테이징 환경으로 이동
+		- ```shell
+		  git reset --sorft [HEAD~숫자입력 or  ]
+		  ```
 -
