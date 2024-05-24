@@ -50,7 +50,7 @@
 			  ```
 	- git reset
 		- 해당 커밋을 취소하고 커밋 내용을 스테이징 환경으로 이동
-		- ```shell
-		  git reset --sorft [HEAD~숫자입력 or  ]
-		  ```
+			- ```shell
+			  git reset --sorft [HEAD~숫자입력 or 해쉬코드]
+			  ```
 -
