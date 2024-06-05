@@ -51,3 +51,4 @@
 -
 - 참고
 	- https://deku.posstree.com/ko/environment/pyenv/
+	  id:: 6628acf2-b3bf-476d-9d48-ab187ea198ee
