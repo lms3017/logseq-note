@@ -48,6 +48,10 @@
 			- ```shell
 			  git branch -m [대상 브랜치명] [새로운 브렌치명]
 			  ```
+		- 브랜치 삭제
+			- ```shell
+			  git branch -d [대상 브랜치명]
+			  ```
 	- git reset
 		- 해당 커밋을 취소하고 커밋 내용을 스테이징 환경으로 이동
 			- ```shell
