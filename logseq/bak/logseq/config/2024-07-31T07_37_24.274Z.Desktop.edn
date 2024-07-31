@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["AWS"]
+ :favorites ["AWS" "개발환경 구축(mac)"]
 
  ;; Set flashcards interval.
  ;; Expected value:
