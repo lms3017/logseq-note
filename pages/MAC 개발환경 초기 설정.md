@@ -13,12 +13,7 @@
 	  
 	  # 설치할 일반 패키지 리스트
 	  PACKAGES=(
-	      git
-	      node
-	      python
-	      wget
-	      zsh
-	      # 추가로 설치하고 싶은 패키지를 여기에 추가하세요.
+	  	nvm
 	  )
 	  
 	  # 설치할 cask 패키지 리스트
