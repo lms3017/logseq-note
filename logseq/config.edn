@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["aws" "git, github"]
+ :favorites ["git, github" "aws"]
 
  ;; Set flashcards interval.
  ;; Expected value:

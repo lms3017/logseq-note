@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["AWS" "개발환경 구축(mac)"]
+ :favorites ["aws" "git, github"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,4 +419,4 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:orphan-pages? false}}
+ :graph/settings {:orphan-pages? true}}
