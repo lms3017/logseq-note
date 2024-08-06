@@ -9,6 +9,7 @@
 			- keyboardcleantool
 			- appcleaner
 			- raycast
+			- iterm2
 		-
 	- ```shell
 	  #!/bin/bash
