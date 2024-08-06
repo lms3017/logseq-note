@@ -60,7 +60,7 @@
 			  curl -LO [원하는 테마의 URL]
 			  ```
 		- iTerm2의 설정에서 테마 임포트후 지정
-			- ![image.png](../assets/image_1713943896077_0.png)
+			- ![image.png](../assets/image_1713943896077_0.png){:height 360, :width 687}
 	- 상태바 설정
 		- configure status bar클릭 -> 추가하고 싶은 거 추가
 			- ![image.png](../assets/image_1713944351283_0.png)
