@@ -3,6 +3,7 @@
 		- hombrew
 			- mas
 				- kakao
+			- iina
 		-
 	- ```shell
 	  #!/bin/bash
