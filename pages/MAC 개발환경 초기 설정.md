@@ -20,6 +20,13 @@
 				  ## ZSH_THEME찾아서 아래 내용으로 수정
 				  ZSH_THEME="agnoster"
 				  
+				  # 컴퓨터 이름 제거
+				  prompt_context() {
+				      if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
+				        prompt_segment black default "%(!.%{%F{yellow}%}.)$USER"
+				    fi
+				  }
+				  
 				  ## 저장후 적용
 				  source  ~/.zshrc
 				  ```
