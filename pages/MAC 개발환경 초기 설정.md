@@ -6,6 +6,7 @@
 			- google-chrome
 			- iina
 			- visual-studio-code
+				- todo: code 명령어 설정 알아보기
 			- keyboardcleantool
 			- appcleaner
 			- raycast
