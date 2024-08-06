@@ -14,7 +14,14 @@
 				  # oh-my-zsh
 				  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 				  
+				  ## 파일열기
+				  vi ~/.zshrc
 				  
+				  ## ZSH_THEME찾아서 아래 내용으로 수정
+				  ZSH_THEME="agnoster"
+				  
+				  ## 저장후 적용
+				  source  ~/.zshrc
 				  ```
 				-
 		-
