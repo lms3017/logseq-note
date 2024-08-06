@@ -1,6 +1,5 @@
 - 구성
   id:: 660cab54-5bb0-4523-834c-38146a53596a
-  collapsed:: true
 	- 개발 도구
 		- [[homebrew]]
 		- [[iTerm2]]
