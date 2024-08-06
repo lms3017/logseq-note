@@ -29,8 +29,10 @@
 				    fi
 				  }
 				  
-				   
+				  brew install zsh-syntax-highlighting
 				  
+				  
+				   
 				  ## 저장후 적용
 				  source  ~/.zshrc
 				  ```
