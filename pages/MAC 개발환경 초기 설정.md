@@ -1,8 +1,8 @@
 ### brew 설치 쉘 스크립트
 	- 임시
-		- 홈부루
+		- hombrew
 			- mas
-				-
+				- kakao
 		-
 	- ```shell
 	  #!/bin/bash
