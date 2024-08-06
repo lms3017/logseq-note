@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ### ssh 설정
+=======
+- git 설치
+	- mac에서는 기본으로 git이 설치되어 있음.
+- ssh 설정
+  collapsed:: true
+>>>>>>> 1242b34 (Auto saved by Logseq)
 	- ```shell
 	  cd ~/.ssh ## 없으면 디렉토리 생성 후 이동
 	  ssh-keygen -t rsa -C [메일주소] -f [ssh 파일이름] ## 이후 비번입력 따로 안할꺼면 엔터 두번
@@ -26,12 +33,16 @@
 	  git config user.email [메일명] ## 전역에 설정된 값이 들어가서 설정해 줘야됨
 	  git config user.name [이름]
 	  ```
+<<<<<<< HEAD
 - ### 명령어 정리
 	- ssh
 		- ssh 연결확인
 			- ```apl
 			  ssh -T git@[호스트 별칭]
 			  ```
+=======
+- git 명령어 정리
+>>>>>>> 1242b34 (Auto saved by Logseq)
 	- git commit
 		- 가장 최근의 커밋 수정
 			- ```shell
