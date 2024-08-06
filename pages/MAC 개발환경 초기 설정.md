@@ -29,12 +29,9 @@
 				    fi
 				  }
 				  
-				  brew install zsh-syntax-highlighting
-				  
-				  # zsh 플러그인
+				  # zsh 플러그인(먼저 옆에꺼 설치 -> brew install zsh-syntax-highlighting)
 				  source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 				  
-				   
 				  ## 저장후 적용
 				  source  ~/.zshrc
 				  ```
