@@ -6,6 +6,8 @@
 			- google-chrome
 			- iina
 			- visual-studio-code
+			- keyboardcleantool
+			- appcleaner
 			-
 		-
 	- ```shell
