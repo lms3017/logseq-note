@@ -8,7 +8,7 @@
 			- visual-studio-code
 			- keyboardcleantool
 			- appcleaner
-			-
+			- raycast
 		-
 	- ```shell
 	  #!/bin/bash
