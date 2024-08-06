@@ -6,6 +6,7 @@
 			- google-chrome
 			- iina
 			- visual-studio-code
+			-
 		-
 	- ```shell
 	  #!/bin/bash
