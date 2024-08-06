@@ -11,6 +11,7 @@
 			- appcleaner
 			- raycast
 			- iterm2
+			  collapsed:: true
 				- ```shell
 				  # oh-my-zsh
 				  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -35,7 +36,26 @@
 				  ## 저장후 적용
 				  source  ~/.zshrc
 				  ```
+				- 폰트 적용
+				  collapsed:: true
+					- [d2폰트](https://github.com/naver/d2codingfont/?tab=readme-ov-file)설치
+					- 적용
+						- ![image.png](../assets/image_1713942399719_0.png)
+				- 컬러 테마 적용
+				  collapsed:: true
+					- [https://iterm2colorschemes.com/](https://iterm2colorschemes.com/)에서 원하는 컬러테마 선택
+					- 적당한 경로로 이동후 컬러 테마 다운로드
+						- ```shell
+						  curl -LO [원하는 테마의 URL]
+						  ```
+					- iTerm2의 설정에서 테마 임포트후 지정
+						- ![image.png](../assets/image_1713943896077_0.png){:height 360, :width 687}
+				- 상태바 설정
+				  collapsed:: true
+					- configure status bar클릭 -> 추가하고 싶은 거 추가
+						- ![image.png](../assets/image_1713944351283_0.png)
 				-
+			-
 		-
 	- ```shell
 	  #!/bin/bash
