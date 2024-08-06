@@ -1,4 +1,6 @@
 ### brew 설치 쉘 스크립트
+	- 임시
+		-
 	- ```shell
 	  #!/bin/bash
 	  
