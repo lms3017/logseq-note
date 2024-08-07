@@ -18,21 +18,20 @@
 				  # 2. .zshrc 파일열기
 				  vi ~/.zshrc
 				  
-				  # 3. .zshrc 아래 내용 .zshrc 추가/수정
-				  # ZSH_THEME찾아서 아래 내용으로 수정
+				  # 3. .zshrc파일에서 아래 내용 추가/수정
+				  ## ZSH_THEME 수정
 				  ZSH_THEME="agnoster"
 				  
-				  # 컴퓨터 이름 제거
+				  ## 컴퓨터 이름 제거
 				  prompt_context() {
 				      if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
 				        prompt_segment black default "%(!.%{%F{yellow}%}.)$USER"
 				    fi
 				  }
-				  
-				  # zsh 플러그인(먼저 옆에꺼 설치 -> brew install zsh-syntax-highlighting)
+				  ## zsh 플러그인(먼저 옆에꺼 설치 -> brew install zsh-syntax-highlighting)
 				  source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 				  
-				  ## 저장후 적용
+				  # 4. 저장후 적용
 				  source  ~/.zshrc
 				  ```
 				- 폰트 적용
