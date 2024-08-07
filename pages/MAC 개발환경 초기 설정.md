@@ -11,7 +11,6 @@
 			- appcleaner: 앱 완전 삭제
 			- raycast: 스포트라이트 대용
 			- iterm2: 터미널
-			  collapsed:: true
 				- ```shell
 				  # 1. oh-my-zsh 설치
 				  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -19,11 +18,10 @@
 				  # 2. .zshrc 파일열기
 				  vi ~/.zshrc
 				  
-				  # 3. 아래 내용 추가/수정
+				  # 3. .zshrc 아래 내용 .zshrc 추가/수정
 				  # ZSH_THEME찾아서 아래 내용으로 수정
 				  ZSH_THEME="agnoster"
 				  
-				  # 아래 내용 추가
 				  # 컴퓨터 이름 제거
 				  prompt_context() {
 				      if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
