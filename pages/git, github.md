@@ -26,7 +26,7 @@
 	  git config user.email [메일명] ## 전역에 설정된 값이 들어가서 설정해 줘야됨
 	  git config user.name [이름]
 	  ```
-- 명령어 정리
+- 명령어
 	- ssh
 		- ssh 연결확인
 			- ```apl
