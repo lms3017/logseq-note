@@ -1,5 +1,5 @@
 - brew 설치 쉘 스크립트
-	- 임시
+	- 설치 / 설정
 		- hombrew
 			- mas: 홈브루에서 설치 안되는 앱 설치용
 				- kakao: 카톡
@@ -10,7 +10,15 @@
 			- keyboardcleantool: 키보드 청소용
 			- appcleaner: 앱 완전 삭제
 			- raycast: 스포트라이트 대용
+			  collapsed:: true
+				- 스포트라이트에 할당된 단축키 변경하기
+				  collapsed:: true
+					- 시스템 설정에서 스포트라이트 단축키 해제
+						- ![image.png](../assets/image_1713943450556_0.png)
+					- raycast설정에서 변경
+						- ![image.png](../assets/image_1713943530352_0.png)
 			- iterm2: 터미널
+			  collapsed:: true
 				- ```shell
 				  # 1. oh-my-zsh 설치
 				  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
