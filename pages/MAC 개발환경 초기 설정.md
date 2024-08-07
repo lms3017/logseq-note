@@ -62,6 +62,7 @@
 			-
 -
 - 자동설치 shell 스크립트(구성중)
+  collapsed:: true
 	- ```shell
 	  #!/bin/bash
 	  
