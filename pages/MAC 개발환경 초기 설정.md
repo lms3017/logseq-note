@@ -61,7 +61,7 @@
 					- ![image.png](../assets/image_1713944351283_0.png)
 			-
 -
-- 자동설치 쉘 스크립트()
+- 자동설치 shell 스크립트(구성중)
 	- ```shell
 	  #!/bin/bash
 	  
