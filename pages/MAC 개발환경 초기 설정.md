@@ -1,24 +1,25 @@
-### brew 설치 쉘 스크립트
+- brew 설치 쉘 스크립트
 	- 임시
 		- hombrew
-			- mas
-				- kakao
-			- google-chrome
-			- iina
-			- visual-studio-code
+			- mas: 홈브루에서 설치 안되는 앱 설치용
+				- kakao: 카톡
+			- google-chrome: 인터넷 브라우저
+			- iina: 동영상 플레이어
+			- visual-studio-code: 편집기
 				- todo: code 명령어 설정 알아보기
-			- keyboardcleantool
-			- appcleaner
-			- raycast
-			- iterm2
+			- keyboardcleantool: 키보드 청소용
+			- appcleaner: 앱 완전 삭제
+			- raycast: 스포트라이트 대용
+			- iterm2: 터미널
 			  collapsed:: true
 				- ```shell
-				  # oh-my-zsh
+				  # 1. oh-my-zsh 설치
 				  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 				  
-				  # 파일열기
+				  # 2. .zshrc 파일열기
 				  vi ~/.zshrc
 				  
+				  # 3. 아래 내용 추가/수정
 				  # ZSH_THEME찾아서 아래 내용으로 수정
 				  ZSH_THEME="agnoster"
 				  
