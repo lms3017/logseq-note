@@ -60,6 +60,7 @@
 				- configure status bar클릭 -> 추가하고 싶은 거 추가
 					- ![image.png](../assets/image_1713944351283_0.png)
 			-
+		- rectangle: 창 위치 이동 단축키
 -
 - 자동설치 shell 스크립트(구성중)
   collapsed:: true

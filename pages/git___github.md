@@ -65,6 +65,7 @@
 			  git reset --sorft [HEAD~숫자입력 or 해쉬코드]
 			  ```
 	- git remote
+	  collapsed:: true
 		- 현재 원격 저장소 확인
 			- ```shell
 			  git remote -v
@@ -73,4 +74,6 @@
 			- ```shell
 			  git remote set-url origin git@[호스트 별칭]:[레파지토리경로]
 			  ```
+	- git stash
+		-
 -
