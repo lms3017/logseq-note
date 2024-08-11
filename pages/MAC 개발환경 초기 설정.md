@@ -60,6 +60,8 @@
 					- ![image.png](../assets/image_1713944351283_0.png)
 			-
 		- rectangle: 창 위치 이동 단축키
+		- docker: 도커
+		- dbeaver-community
 -
 - 자동설치 shell 스크립트(구성중)
   collapsed:: true
