@@ -9,9 +9,7 @@
 		- keyboardcleantool: 키보드 청소용
 		- appcleaner: 앱 완전 삭제
 		- raycast: 스포트라이트 대용
-		  collapsed:: true
 			- 스포트라이트에 할당된 단축키 변경하기
-			  collapsed:: true
 				- 시스템 설정에서 스포트라이트 단축키 해제
 					- ![image.png](../assets/image_1713943450556_0.png)
 				- raycast설정에서 변경
