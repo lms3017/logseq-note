@@ -1,5 +1,4 @@
 - ssh 설정
-  collapsed:: true
 	- ```shell
 	  cd ~/.ssh ## 없으면 디렉토리 생성 후 이동
 	  ssh-keygen -t rsa -C [메일주소] -f [ssh 파일이름] ## 이후 비번입력 따로 안할꺼면 엔터 두번
@@ -29,7 +28,6 @@
 	  ```
 - 명령어
 	- ssh
-	  collapsed:: true
 		- ssh 연결확인
 			- ```apl
 			  ssh -T git@[호스트 별칭]
