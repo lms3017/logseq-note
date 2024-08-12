@@ -75,5 +75,6 @@
 			  git remote set-url origin git@[호스트 별칭]:[레파지토리경로]
 			  ```
 	- git stash
+	  collapsed:: true
 		-
 -
