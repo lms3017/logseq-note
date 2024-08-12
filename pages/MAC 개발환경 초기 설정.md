@@ -63,7 +63,9 @@
 		- docker: 도커
 		- dbeaver-community
 		- nvm: node 패키지 메니저
+		  collapsed:: true
 			- 환경변수 설정
+			  collapsed:: true
 				- 디렉토리 생성
 					- ```shell
 					  mkdir ~/.nvm
