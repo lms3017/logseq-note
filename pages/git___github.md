@@ -41,7 +41,6 @@
 			  git commit --amend
 			  ```
 	- git branch
-	  collapsed:: true
 		- 로컬 브렌치 원격 레파지토리 연결 확인
 			- ```shell
 			  git branch -vv
@@ -59,10 +58,9 @@
 			  git branch -d [대상 브랜치명]
 			  ```
 	- git reset
-	  collapsed:: true
 		- 해당 커밋을 취소하고 커밋 내용을 스테이징 환경으로 이동
 			- ```shell
-			  git reset --sorft [HEAD~숫자입력 or 해쉬코드]
+			  git reset --soft [HEAD~숫자입력 or 해쉬코드]
 			  ```
 	- git remote
 	  collapsed:: true
