@@ -83,10 +83,10 @@
 		- slack
 		- postman
 		- docker
+		  collapsed:: true
 			- --cask 옵션 설정 필요(동일한 이름으로 있어서)
 -
 - 자동설치 shell 스크립트(구성중)
-  collapsed:: true
 	- ```shell
 	  #!/bin/bash
 	  
