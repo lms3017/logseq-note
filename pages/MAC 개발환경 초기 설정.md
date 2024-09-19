@@ -1,10 +1,12 @@
 - 앱 설치 / 기본 설정
 	- hombrew
 		- mas: 홈브루에서 설치 안되는 앱 설치용
+		  collapsed:: true
 			- kakao: 카톡
 		- google-chrome: 인터넷 브라우저
 		- iina: 동영상 플레이어
 		- visual-studio-code: 편집기
+		  collapsed:: true
 			- todo: code 명령어 설정 알아보기
 		- keyboardcleantool: 키보드 청소용
 		- appcleaner: 앱 완전 삭제
@@ -85,6 +87,7 @@
 		- docker
 		  collapsed:: true
 			- --cask 옵션 설정 필요(동일한 이름으로 있어서)
+		-
 -
 - 자동설치 shell 스크립트(구성중)
 	- ```shell
