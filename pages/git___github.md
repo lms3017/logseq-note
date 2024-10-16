@@ -58,9 +58,19 @@
 			  git branch -d [대상 브랜치명]
 			  ```
 	- git reset
-		- 해당 커밋을 취소하고 커밋 내용을 스테이징 환경으로 이동
+		- 대상 커밋 이후의 커밋을 취소하고 커밋 내용을 워킹 디렉토리로 이동
+			- ```shell
+			  git reset --mixed [HEAD~숫자입력 or 해쉬코드]
+			  or
+			  git reset [HEAD~숫자입력 or 해쉬코드] 
+			  ```
+		- 대상 커밋 이후의 커밋을 취소하고 커밋 내용을 스테이징 환경으로 이동
 			- ```shell
 			  git reset --soft [HEAD~숫자입력 or 해쉬코드]
+			  ```
+		- 대상 커밋 이후의 커밋을 취소하고 커밋 내용을 완전히 삭제
+			- ```shell
+			  git reset --hard [HEAD~숫자입력 or 해쉬코드]
 			  ```
 	- git remote
 	  collapsed:: true
