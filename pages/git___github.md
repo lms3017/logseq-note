@@ -29,13 +29,11 @@
 	  ```
 - 명령어
 	- ssh
-	  collapsed:: true
 		- ssh 연결확인
 			- ```apl
 			  ssh -T git@[호스트 별칭]
 			  ```
 	- git commit
-	  collapsed:: true
 		- 가장 최근의 커밋 수정
 			- ```shell
 			  git commit --amend
@@ -60,9 +58,8 @@
 	- git reset
 		- 대상 커밋 이후의 커밋을 취소하고 커밋 내용을 워킹 디렉토리로 이동
 			- ```shell
+			  # 기본설정
 			  git reset --mixed [HEAD~숫자입력 or 해쉬코드]
-			  or
-			  git reset [HEAD~숫자입력 or 해쉬코드] 
 			  ```
 		- 대상 커밋 이후의 커밋을 취소하고 커밋 내용을 스테이징 환경으로 이동
 			- ```shell
@@ -72,8 +69,12 @@
 			- ```shell
 			  git reset --hard [HEAD~숫자입력 or 해쉬코드]
 			  ```
+	- git revert
+		- 대상 커밋 자체를 삭제하지 않고 새로운 커밋 으로
+			- ```shell
+			  git reset --hard [HEAD~숫자입력 or 해쉬코드]
+			  ```
 	- git remote
-	  collapsed:: true
 		- 현재 원격 저장소 확인
 			- ```shell
 			  git remote -v
@@ -83,6 +84,5 @@
 			  git remote set-url origin git@[호스트 별칭]:[레파지토리경로]
 			  ```
 	- git stash
-	  collapsed:: true
 		-
 -
