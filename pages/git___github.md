@@ -70,9 +70,17 @@
 			  git reset --hard [HEAD~숫자입력 or 해쉬코드]
 			  ```
 	- git revert
-		- 대상 커밋 자체를 삭제하지 않고 새로운 커밋 으로
+		- 대상 커밋 자체를 삭제하지 않고 새로운 커밋 으로 작성
 			- ```shell
-			  git reset --hard [HEAD~숫자입력 or 해쉬코드]
+			  git revert [HEAD~숫자입력 or 해쉬코드]
+			  ```
+		- 자동으로 커밋을 만들지 않고 내용만 워킹 디렉토리로 이동
+			- ```shell
+			  git revert -n [HEAD~숫자입력 or 해쉬코드]
+			  ```
+		- 자동으로 커밋을 메세지 작성
+			- ```shell
+			  git revert --no-edit [HEAD~숫자입력 or 해쉬코드]
 			  ```
 	- git remote
 		- 현재 원격 저장소 확인
@@ -83,6 +91,3 @@
 			- ```shell
 			  git remote set-url origin git@[호스트 별칭]:[레파지토리경로]
 			  ```
-	- git stash
-		-
--
