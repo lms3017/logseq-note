@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["git/github" "mac 개발환경 초기 설정" "mac 개발환경 구축" "aws" "chrome"]
+ :favorites ["mac 개발환경 초기 설정" "mac 개발환경 구축" "vim" "git/github" "chrome"]
 
  ;; Set flashcards interval.
  ;; Expected value:
