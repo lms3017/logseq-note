@@ -4,6 +4,9 @@
 			- ```shell
 			  aws iam create-group --group-name <group-name>
 			  ```
+		- 사용자 그룹 삭제
+			- ```shell
+			  aws iam delete-group --group-name <group-name>```
 		- 그룹에 정책(권한) 연결
 			- ```shell
 			  aws iam attach-group-policy --group-name <group-name> --policy-arn <policy-arn>
