@@ -1,15 +1,15 @@
 - 서비스
-	- 컴퓨팅
-		- [[EC2]]
-		- [[ECS]]
-		- [[lmabda]]
-	- 네트워킹
-		- [[CloudFront]]
-		- [[ALB]]
-		- [[VPC]]
-		- [[Route 53]]
-	- 모바일 서비스
-		- [[Amplify]]
-		- [[Cognito]]
+	- IAM
+		-
+		- 사용자
+			- 사용자 추가 가능
+			- IAM Identity Center
+				- AWS Organizations(으)로 활성화, 이 AWS 계정에서만 활성화의 차이점을 모르겠음.
+				- AWS Organizations(으)로 활성화로 진행
+				- 이메일을 필수로 입력해야 되서 더이상 진행 x
+			- IAM 사용자 생성
+				- 이메일을 필수로 지정없이 유저생성가능
+				-
+				- 생성시 권한 설정가능
 -
 - 아카이브
