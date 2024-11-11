@@ -6,7 +6,16 @@
 			  ```
 		- 사용자 그룹 삭제
 			- ```shell
-			  aws iam delete-group --group-name <group-name>```
+			  aws iam delete-group --group-name <group-name>
+			  ```
+		- 등록된 사용자 그룹 보기
+			- ```shell
+			  aws iam list-groups
+			  ```
+		- 등록된 사용자 그룹에 연결된 정책 목록을 확인
+			- ```shell
+			  aws iam list-attached-group-policies --group-name <group-name>
+			  ```
 		- 그룹에 정책(권한) 연결
 			- ```shell
 			  aws iam attach-group-policy --group-name <group-name> --policy-arn <policy-arn>
