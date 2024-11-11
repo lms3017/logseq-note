@@ -1,15 +1,24 @@
-- 서비스
-	- IAM
-		-
-		- 사용자
-			- 사용자 추가 가능
-			- IAM Identity Center
-				- AWS Organizations(으)로 활성화, 이 AWS 계정에서만 활성화의 차이점을 모르겠음.
-				- AWS Organizations(으)로 활성화로 진행
-				- 이메일을 필수로 입력해야 되서 더이상 진행 x
-			- IAM 사용자 생성
-				- 이메일을 필수로 지정없이 유저생성가능
-				-
-				- 생성시 권한 설정가능
--
-- 아카이브
+- IAM
+	- 사용자 그룹
+		- 사용자 그룹 생성
+			- ```shell
+			  aws iam create-group --group-name <group-name>
+			  ```
+		- 그룹에 정책(권한) 연결
+			- ```shell
+			  aws iam attach-group-policy --group-name <group-name> --policy-arn <policy-arn>
+			  ```
+		- 그룹에서 정책(권한) 제거
+			- ```shell
+			  aws iam detach-group-policy --group-name <group-name> --policy-arn <policy-arn>
+			  ```
+		- 사용자를 그룹에 추가
+			- ```shell
+			  aws iam add-user-to-group --user-name <username> --group-name <group-name>
+			  ```
+		- 사용자를 그룹에서 제거
+			- ```shell
+			  aws iam remove-user-from-group --user-name <username> --group-name <group-name>
+			  ```
+	- 사용자
+	-
