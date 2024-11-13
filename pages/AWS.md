@@ -16,7 +16,7 @@
 		- 쓰기
 			- 사용자 그룹 생성
 				- ```shell
-				  saws iam create-group --group-name <group-name>
+				  aws iam create-group --group-name <group-name>
 				  ```
 			- 사용자 그룹 삭제
 				- ```shell
@@ -61,21 +61,30 @@
 				  aws iam list-mfa-devices --user-name <username>
 				  ```
 		- 쓰기
-			- 유저 생성
+			- 유저 생성, 삭제
 				- ```shell
 				  aws iam create-user --user-name <username>
 				  ```
-			- 사용자를 그룹에 추가
+			- 유저를 그룹에 추가, 제거
 				- ```shell
 				  aws iam add-user-to-group --user-name <username> --group-name <group-name>
 				  ```
-			- 사용자를 그룹에서 제거
 				- ```shell
 				  aws iam remove-user-from-group --user-name <username> --group-name <group-name>
 				  ```
-			- 유저에게 정책 연결(그룹은 안됨 개별만)
+			- 유저에게 관리형 정책 연결, 삭제
 				- ```shell
 				  aws iam attach-user-policy --user-name <username> --policy-arn <policy-arn>
+				  ```
+				- ```shell
+				  aws iam detach-user-policy --user-name <username> --policy-arn <policy-arn>
+				  ```
+			- 유저에게 인라인 정책 추가(수정), 삭제
+				- ```shell
+				  aws iam put-user-policy --user-name <username> --policy-name <policy-name> --policy-document <policy-document>
+				  ```
+				- ```shell
+				  aws iam delete-user-policy --user-name <username> --policy-name <policy-name>
 				  ```
 			- 유저의 콘솔 로그인용 패스워드 설정
 				- ```shell
@@ -86,4 +95,7 @@
 				  aws iam create-access-key --user-name <username>
 				  ```
 			-
--
+- 도큐먼트
+	- <policy-arn>:: 정책의 arn주소값
+	- <policy-document>:: JSON 형식의 정책 문서. `file://`을 접두하로 해서 로컬 파일을 불러온다. ex) `file://s3-read-policy.json`
+	-
