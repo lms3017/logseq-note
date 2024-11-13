@@ -95,7 +95,7 @@
 				  aws iam create-access-key --user-name <username>
 				  ```
 			-
-- 도큐먼트
+- 참고
 	- <policy-arn>:: 정책의 arn주소값
 	- <policy-document>:: JSON 형식의 정책 문서. `file://`을 접두하로 해서 로컬 파일을 불러온다. ex) `file://s3-read-policy.json`
 	-
