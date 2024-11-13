@@ -86,9 +86,13 @@
 				- ```shell
 				  aws iam delete-user-policy --user-name <username> --policy-name <policy-name>
 				  ```
-			- 유저의 콘솔 로그인용 패스워드 설정
+			- 유저의 콘솔 로그인용 패스워드 설정, 수정
 				- ```shell
 				  aws iam create-login-profile --user-name <username> --password <password> --password-reset-required
+				  ```
+					- `--password-reset-required`: 로그인시 패스워드 재설정
+				- ```shell
+				  aws iam update-login-profile --user-name <username> --password <new-password> --password-reset-required
 				  ```
 			- 엑세스키 생성
 				- ```shell
