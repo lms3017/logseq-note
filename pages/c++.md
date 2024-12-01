@@ -24,6 +24,7 @@
 	- 클래스 내부에 정의된 변수와 함수를 모두 포함하는 용어
 - STL 컨테이너
 	- 시퀀스 컨테이너 `vector`, `deque`, `list`
+	  collapsed:: true
 		- ```c++
 		  #include <vector>
 		  #include <iostream>
@@ -41,6 +42,7 @@
 		  }
 		  ```
 	- 연관 컨테이너 `set`, `map`, `multiset`, `multimap`
+	  collapsed:: true
 		- ```c++
 		  #include <map>
 		  #include <iostream>
@@ -59,6 +61,7 @@
 		  }
 		  ```
 	- 컨테이너 어댑터 `stack`, `queue`, `priority_queue`
+	  collapsed:: true
 		- ```c++
 		  #include <stack>
 		  #include <iostream>
@@ -78,4 +81,51 @@
 		      return 0;
 		  }
 		  ```
+- 추상 클래스
+	- ```c++
+	  class AbstractClass {
+	  public:
+	      virtual void display() = 0; // 순수 가상 함수
+	  };
+	  ```
+- 구조체
+	- 클래스와 유사
+	- 주로 여러 변수(데이터 멤버)를 하나로 묶어 표현할 때 사용
+	- 기본은 퍼블릭이다.
+- 인라인 함수
+	- 함수를 호출하는 대신 그 함수의 코드가 호출된 위치에 직접 삽입
+	- ```c++
+	  inline int square(int x) {
+	      return x * x;
+	  }
+	  
+	  int main() {
+	      int a = 5;
+	      int result = square(a);  // 컴파일 타임에 square(a)는 a * a 로 교체되서 실행됨
+	      cout << "Square of " << a << " is " << result << endl;
+	      return 0;
+	  }
+	  ```
+- 컴파일 타임과 런타임의 차이점
+	- | 구분 | 컴파일 타임 (Compile Time) | 런타임 (Runtime) |
+	  | ---- | ---- | ---- |
+	  | **시점** | 프로그램이 실행되기 전에 | 프로그램이 실행 중일 때 |
+	  | **예시** | 변수 선언, 상수 값 할당, 컴파일러 최적화 | 동적 메모리 할당, 사용자 입력 처리 |
+	  | **오류 발생** | 구문 오류, 타입 오류 | 실행 도중 오류(예: NULL 포인터, 배열 범위 초과 등) |
+	  | **작업** | 코드 분석, 최적화, 함수 인라인화 등 | 실행, 메모리 할당, I/O 처리 등 |
+- 다중정의(오버로딩)
+	- 함수 이름은 같지만, 매개변수가 다름
+	- 반환 타입만 다르면 오버로딩이 성립안됨
+- 멤버 초기화 리스트
+	- ```c++
+	  class MyClass {
+	  private:
+	      int a;
+	      int b;
+	  
+	  public:
+	      MyClass(int t) : a(0), b(t) {}  // 초기화 리스트에서 초기화
+	  };
+	  ```
+	- `MyClass(int t) : a(0), b(t) {}` or `MyClass(int t){ a = 0, b = t }` 두방법이 있지만 상수, 참조형 멤버 변수일 경우 멤버 초기화 리스트로만 초기화가 가능하다
 -
