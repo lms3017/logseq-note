@@ -22,6 +22,50 @@
 	  ```
 - 멤버
 	- 클래스 내부에 정의된 변수와 함수를 모두 포함하는 용어
+	- `const` 맴버함수, 일만 맴버함수
+		- | 특성 | `const` 멤버 함수 | 일반 멤버 함수 |
+		  | ---- | ---- | ---- |
+		  | **객체 상태 변경** | 상태 변경 불가 | 상태 변경 가능 |
+		  | **호출 가능 객체** | `const` 객체에서만 호출 가능 | `const` 객체에서는 호출 불가 |
+		  | **주요 용도** | 객체 상태를 읽기만 하고, 수정하지 않는 함수 | 객체 상태를 변경하는 함수 |
+		  | **예시** | `int getValue() const` | `void setValue(int v)` |
+	- static 멤버
+		- 모든 클래스 인스턴스에서 공유됨
+		- static함수의 경우 non-static데이터는 접근불가
+	- protected 멤버
+		- 부모에서 상속받은 경우 부모의 protected 멤버 사용가능
+- 생성자
+	- 기본 생성자
+		- `MyClass(int val)` 형식으로 작성
+		- 사용시 ex: `MyClass obj1(10)`
+	- 복사 생성자
+		- `MyClass(const MyClass& other) {` 형식으로 작성
+		- 사용시 ex: `MyClass obj2 = obj1`
+	- 이동 생성자
+		- `MyClass(MyClass&& other) noexcept {` 형식으로 작성
+		- 사용시 ex: `MyClass obj3 = move(obj1)`
+- 연산자
+	- 전위 연산자
+		- ```c++
+		  ClassName& operator++(){
+		    	...
+		    	return *this; // 증가된 값을 가진 객체 반환
+		  }
+		  ```
+	- 후위 연산자
+		- ```c++
+		  ClassName& operator++(int) {
+		    	ClassName temp = *this;  // 현재 객체를 임시로 저장
+		      ...
+		    	return temp;  // 증가하기 전 값을 가진 객체 반환
+		  }
+		  ```
+	- 형변환 연산자
+		- ```c++
+		  operator int() const { // 객체를 int로 변환
+		      ...
+		  }
+		  ```
 - STL 컨테이너
 	- 시퀀스 컨테이너 `vector`, `deque`, `list`
 	  collapsed:: true
@@ -127,5 +171,6 @@
 	      MyClass(int t) : a(0), b(t) {}  // 초기화 리스트에서 초기화
 	  };
 	  ```
-	- `MyClass(int t) : a(0), b(t) {}` or `MyClass(int t){ a = 0, b = t }` 두방법이 있지만 상수, 참조형 멤버 변수일 경우 멤버 초기화 리스트로만 초기화가 가능하다
+	- `MyClass(int t) : a(0), b(t) {}` or `MyClass(int t){ a = 0, b = t }` 두방법이 있지만 상수, 참조형 멤버 변수, 상속받은 변수일 경우 멤버 초기화 리스트로만 초기화가 가능하다
+	- `b(t)` 이걸 ` b{t}` 이런식으로 표현도 가능하다.(거의 같음)
 -
