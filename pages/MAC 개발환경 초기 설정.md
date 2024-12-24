@@ -6,7 +6,6 @@
 		- google-chrome: 인터넷 브라우저
 		- iina: 동영상 플레이어
 		- visual-studio-code: 편집기
-		  collapsed:: true
 			- todo: code 명령어 설정 알아보기
 		- keyboardcleantool: 키보드 청소용
 		- appcleaner: 앱 완전 삭제
