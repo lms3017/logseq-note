@@ -58,6 +58,7 @@
 				- configure status bar클릭 -> 추가하고 싶은 거 추가
 					- ![image.png](../assets/image_1713944351283_0.png)
 		- ~~rectangle: 창 위치 이동 단축키~~
+			- raycast에 포함됨
 		- nvm: node 패키지 메니저
 		  collapsed:: true
 			- 환경변수 설정
