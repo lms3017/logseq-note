@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["mac 개발환경 초기 설정" "mac 개발환경 구축" "aws" "vim" "git/github" "chrome"]
+ :favorites ["vim 단축키" "vim 명령어" "projects" "areas" "archive" "resources" "면접준비" "스킬시트" "aws" "aws cli" "mac 개발환경 초기 설정" "mac 개발환경 구축" "vim" "git/github" "chrome"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:orphan-pages? true}
- :feature/enable-timetracking? false}
+ :feature/enable-timetracking? false
+ :journal/page-title-format "yyyy/MM/dd"}
