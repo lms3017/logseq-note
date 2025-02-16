@@ -10,7 +10,7 @@ template:: project
 	- **관련 자료**
 		- [[리소스 1]]
 		  id:: 67b1e313-6cbb-496b-b1b1-f9d7af0ef253
-	- **메모(참고)**
+	- **메모 (참고)**
 		- 메모 작성
 -
 - template:: area
