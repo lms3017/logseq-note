@@ -26,5 +26,6 @@ template:: project
 -
 - template:: resource
   #resources
-	-
+	- 내용
+		- 내용 작성
 -
