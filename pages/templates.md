@@ -1,7 +1,6 @@
-## Project Template
-template:: Project
+template:: project
 
-#Projects
+- #projects
 - **프로젝트 이름**:
 - **목표 (Objectives)**:
 	- 목표 1:
