@@ -1,5 +1,4 @@
 - ssh 설정
-  collapsed:: true
 	- ```shell
 	  cd ~/.ssh ## 없으면 디렉토리 생성 후 이동
 	  ssh-keygen -t rsa -C [메일주소] -f [ssh 파일이름] ## 이후 비번입력 따로 안할꺼면 엔터 두번
@@ -29,16 +28,19 @@
 	  ```
 - 명령어
 	- ssh
+	  collapsed:: true
 		- ssh 연결확인
 			- ```apl
 			  ssh -T git@[호스트 별칭]
 			  ```
 	- git commit
+	  collapsed:: true
 		- 가장 최근의 커밋 수정
 			- ```shell
 			  git commit --amend
 			  ```
 	- git branch
+	  collapsed:: true
 		- 로컬 브렌치 원격 레파지토리 연결 확인
 			- ```shell
 			  git branch -vv
@@ -56,6 +58,7 @@
 			  git branch -d [대상 브랜치명]
 			  ```
 	- git reset
+	  collapsed:: true
 		- 대상 커밋 이후의 커밋을 취소하고 커밋 내용을 워킹 디렉토리로 이동
 			- ```shell
 			  # 기본설정
@@ -66,6 +69,7 @@
 			  git reset --soft [HEAD~숫자입력 or 해쉬코드]
 			  ```
 		- 대상 커밋 이후의 커밋을 취소하고 커밋 내용을 완전히 삭제
+		  collapsed:: true
 			- ```shell
 			  git reset --hard [HEAD~숫자입력 or 해쉬코드]
 			  ```
