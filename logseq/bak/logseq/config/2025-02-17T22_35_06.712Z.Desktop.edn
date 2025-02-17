@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["vim 명령어" "projects" "areas" "resources" "research" "archive" "templates" "면접준비" "스킬시트" "aws" "aws cli" "mac 개발환경 구축"]
+ :favorites ["프로젝트 프로젝트 정리" "vim 명령어" "projects" "areas" "resources" "research" "archive" "templates" "면접준비" "스킬시트" "aws" "aws cli" "mac 개발환경 구축"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,7 +419,7 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:orphan-pages? false
+ :graph/settings {:orphan-pages? true
  :journal? false
  :builtin-pages? false
  :excluded-pages? true}
