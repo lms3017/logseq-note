@@ -13,7 +13,7 @@ projects
 - template:: area
   areas
 	- **설명**
-		- 내용 작성
+		- 설명 작성
 	- **메모**
 		- 메모 작성
 -
