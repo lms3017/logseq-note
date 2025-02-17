@@ -1,4 +1,3 @@
-- /
 - #resources research
 	- **내용**
 		- ```shell
