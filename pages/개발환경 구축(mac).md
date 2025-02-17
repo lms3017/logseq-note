@@ -4,7 +4,7 @@
 		- [[homebrew]]
 		- [[doker 설치, 설정]]
 		- [[bun]] - node 버전관리
-		- [[pyenv 설치, 설정]]
+		- [[pyenv 설치 및 설정]]
 		- [[nvm]]
 		- [[git/github]]
 		- [[dbeaber]]
@@ -16,7 +16,7 @@
 		- logseq
 	- 기타
 		- [[giphycapture]]
-		- [[raycast]]
+		- [[raycast 설치 및 설정방법]]
 -
 - 컴퓨터 설정
 	- 파인더에 홈 추가 방법
