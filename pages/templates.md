@@ -27,11 +27,9 @@ projects
 - template:: resource
   resources research
 	- **내용**
-		- 내용 작성
 	- **출처**
-		- 출처 작성
+	- **관련 프로젝트**
+	- **영역**
 	- **태그**
-		- 태그
 	- **메모**
-		- 메모 작성
 -
