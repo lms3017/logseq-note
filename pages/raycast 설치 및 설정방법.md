@@ -1,8 +1,7 @@
 - 설치
-	- brew로 설치
-		- ```shell
-		  brew install --cask raycast
-		  ```
+	- ```shell
+	  brew install --cask raycast
+	  ```
 - 기본설정
 	- 스포트라이트에 할당된 단축키 변경하기
 		- 시스템 설정에서 스포트라이트 단축키 해제
