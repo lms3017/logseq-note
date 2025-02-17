@@ -1,5 +1,9 @@
 - #resources research
 	- **내용**
+		- 설치
+			- ```
+			  brew install --cask iterm2
+			  ```
 		- Oh-My-Zsh 설치
 			- ```shell
 			  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -62,18 +66,5 @@
 	- **출처**
 		- 출처 작성
 	- **태그**
-		- #태그1 #태그2
+		- #iTerm2 #태그2
 	- **메모**
-		- 메모 작성
-- 설치
-	- ```shell
-	  brew install --cask iterm2
-	  ```
-- 단축키 / 사용법
--
-- 아카이브
-  collapsed:: true
-	- 셋팅에서 json으로 설정파일을 출력하면 동기화가 가능하다.
-- 참고
-  collapsed:: true
-	-
