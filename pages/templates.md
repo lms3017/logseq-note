@@ -26,11 +26,11 @@ projects
 -
 - template:: resource
   resources research
-	- 내용
+	- **내용**
 		- 내용 작성
-	- 출처
+	- **출처**
 		- 출처 작성
-	- 태그
+	- **태그**
 		- #태그1 #태그2
 	- **메모**
 		- 메모 작성
