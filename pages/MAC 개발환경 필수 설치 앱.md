@@ -1,12 +1,10 @@
 - resources #research
 	- 내용
 		- hombrew
-			- collapsed:: true
-			  ```shell
+			- ```shell
 			  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 			  ```
 				- 버전확인시 오류가 난다면 패스추가
-				  collapsed:: true
 					- ```shell
 					  # zshrc에 homebrew path 추가
 					  export "PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
@@ -97,6 +95,7 @@
 			- notion
 			- docker: 도커
 	- 출처
+		- [Homebrew 설치 및 사용 방법](https://whalec.io/mac/homebrew-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95/)
 	- 태그
 		- #mac #개발환경
 	- **메모**
