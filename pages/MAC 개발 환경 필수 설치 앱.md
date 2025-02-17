@@ -48,7 +48,6 @@
 			- iina: 동영상 플레이어
 			- aldente: 배터리 관리
 			- visual-studio-code: 편집기
-				- todo: code 명령어 설정 알아보기
 			- keyboardcleantool: 키보드 청소용
 			- appcleaner: 앱 완전 삭제
 			- raycast: 스포트라이트 대용
@@ -88,3 +87,4 @@
 	- 태그
 		- #mac #개발환경
 	- **메모**
+		- visual-studio-code
