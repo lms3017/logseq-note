@@ -4,7 +4,7 @@
 		- [[homebrew]]
 		- [[doker 설치, 설정]]
 		- [[bun]] - node 버전관리
-		- [[pyenv]]
+		- [[pyenv 설치, 설정]]
 		- [[nvm]]
 		- [[git/github]]
 		- [[dbeaber]]
