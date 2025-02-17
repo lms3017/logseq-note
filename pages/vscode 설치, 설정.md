@@ -1,4 +1,4 @@
-- resources research
+- #resources
 	- **내용**
 		- 설치
 			- ```shell
