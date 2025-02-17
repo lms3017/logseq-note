@@ -2,7 +2,7 @@
   id:: 660cab54-5bb0-4523-834c-38146a53596a
 	- 개발 도구
 		- [[homebrew]]
-		- [[doker]]
+		- [[doker 설치, 설정]]
 		- [[bun]] - node 버전관리
 		- [[pyenv]]
 		- [[nvm]]
