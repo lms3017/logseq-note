@@ -1,10 +1,9 @@
 - #resources research
 	- 내용
-		- [[homebrew]] : 설치 매니저
+		- homebrew : 설치 매니저
 			- mas: 홈브루에서 설치 안되는 앱 설치용
-			  collapsed:: true
 				- kakao: 카톡
-			- [[iTerm2]] : 터미널
+			- iTerm2 : 터미널
 			- google-chrome: 인터넷 브라우저
 			- iina: 동영상 플레이어
 			- aldente: 배터리 관리
