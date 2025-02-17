@@ -1,0 +1,11 @@
+- resources research
+	- **내용**
+		- 설치
+			- ```shell
+			  brew install --cask visual-studio-code
+			  ```
+	- **출처**
+	- **태그**
+		- 태그1 태그2
+	- **메모**
+		- 메모 작성

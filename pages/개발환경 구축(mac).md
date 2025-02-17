@@ -3,7 +3,7 @@
 	- 개발 도구
 		- [[homebrew]]
 		- [[iTerm2 설치]]
-		- [[vscode]]
+		- [[vscode 설치]]
 		- [[doker]]
 		- [[bun]] - node 버전관리
 		- [[pyenv]]
