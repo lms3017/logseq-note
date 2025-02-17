@@ -421,6 +421,10 @@
  :file/name-format :triple-lowbar
  :graph/settings {:orphan-pages? true
  :journal? false
- :builtin-pages? false}
+ :builtin-pages? false
+ :excluded-pages? true}
  :feature/enable-timetracking? false
- :journal/page-title-format "yyyy/MM/dd"}
+ :journal/page-title-format "yyyy/MM/dd"
+ :graph/forcesettings {:charge-range 1200
+ :charge-strength -900
+ :link-dist 70}}
