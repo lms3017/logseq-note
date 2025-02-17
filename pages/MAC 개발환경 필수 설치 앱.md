@@ -1,6 +1,6 @@
-- resources #research
+- #resources research
 	- 내용
-		- [[homebrew]]
+		- [[homebrew]] : 설치 매니저
 			- mas: 홈브루에서 설치 안되는 앱 설치용
 			  collapsed:: true
 				- kakao: 카톡
