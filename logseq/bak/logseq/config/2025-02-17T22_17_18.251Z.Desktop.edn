@@ -421,7 +421,7 @@
  :file/name-format :triple-lowbar
  :graph/settings {:orphan-pages? true
  :journal? false
- :builtin-pages? true
+ :builtin-pages? false
  :excluded-pages? true}
  :feature/enable-timetracking? false
  :journal/page-title-format "yyyy/MM/dd"
