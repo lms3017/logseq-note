@@ -14,6 +14,6 @@
 	- **출처**
 		- [Homebrew 설치 및 사용 방법](https://whalec.io/mac/homebrew-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95/)
 	- **태그**
-		- #homebrew #설치
+		- #homebre #설치
 	- **메모**
 -
