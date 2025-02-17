@@ -12,7 +12,7 @@ projects
 -
 - template:: area
   areas
-	- **목표**
+	- **내용**
 		- 목표 작성
 	- **메모**
 		- 메모 작성
