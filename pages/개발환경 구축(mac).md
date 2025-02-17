@@ -2,8 +2,6 @@
   id:: 660cab54-5bb0-4523-834c-38146a53596a
 	- 개발 도구
 		- [[homebrew]]
-		- [[iTerm2 설치]]
-		- [[vscode 설치]]
 		- [[doker]]
 		- [[bun]] - node 버전관리
 		- [[pyenv]]
