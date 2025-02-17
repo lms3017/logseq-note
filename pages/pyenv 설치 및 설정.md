@@ -25,6 +25,7 @@
 					  source ~/.zshrc
 					  ```
 		- pyenv 명령어/사용법
+	-
 	- **출처**
 		- https://deku.posstree.com/ko/environment/pyenv/
 	- **태그**
