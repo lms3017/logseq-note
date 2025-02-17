@@ -87,4 +87,4 @@
 	- 태그
 		- #mac #개발환경
 	- **메모**
-		- visual-studio-code
+		- visual-studio-code 세팅 방법 알아보기
