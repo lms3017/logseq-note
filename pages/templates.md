@@ -25,7 +25,7 @@ projects
 		- 메모 작성
 -
 - template:: resource
-  resources
+  resources research
 	- 내용
 		- 내용 작성
 	- 출처
