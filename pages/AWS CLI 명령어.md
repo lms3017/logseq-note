@@ -105,6 +105,9 @@
 			- <policy-arn>:: 정책의 arn주소값
 			- <policy-document>:: JSON 형식의 정책 문서. `file://`을 접두하로 해서 로컬 파일을 불러온다. ex) `file://s3-read-policy.json`
 	- **출처**
+	- **관련 프로젝트**
+	- **영역**
+		- [[프로그래밍]]
 	- **태그**
 		- #AWS #cli #명령어
 	- **메모**
