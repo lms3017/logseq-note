@@ -1,11 +1,17 @@
+- #resources research
+	- **내용**
+		-
+	- **출처**
+		- 출처 작성
+	- **태그**
+		- #태그1 #태그2
+	- **메모**
+		- 메모 작성
 - 설치
 	- ```shell
 	  brew install --cask iterm2
 	  ```
 - iTerm2 꾸미기
-	- 참고
-	  collapsed:: true
-		- [링크1](https://velog.io/@yejin25/iTerm-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A6%88-%ED%95%98%EA%B8%B0)
 	- Oh-My-Zsh 설치
 		- ```shell
 		  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -63,11 +69,12 @@
 			- ![image.png](../assets/image_1713943896077_0.png){:height 360, :width 687}
 	- 상태바 설정
 		- configure status bar클릭 -> 추가하고 싶은 거 추가
-			- ![image.png](../assets/image_1713944351283_0.png)
+			- ![image.png](../assets/image_1713944351283_0.png){:height 443, :width 687}
 - 단축키 / 사용법
 -
 - 아카이브
   collapsed:: true
 	- 셋팅에서 json으로 설정파일을 출력하면 동기화가 가능하다.
 - 참고
+  collapsed:: true
 	-
