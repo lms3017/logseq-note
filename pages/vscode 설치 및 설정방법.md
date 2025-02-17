@@ -4,6 +4,7 @@
 			- ```shell
 			  brew install --cask visual-studio-code
 			  ```
+	-
 	- **출처**
 	- **태그**
 		- #vscode #설치
