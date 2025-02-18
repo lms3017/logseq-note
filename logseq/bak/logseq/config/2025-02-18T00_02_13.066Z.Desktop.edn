@@ -425,6 +425,6 @@
  :excluded-pages? true}
  :feature/enable-timetracking? false
  :journal/page-title-format "yyyy/MM/dd"
- :graph/forcesettings {:charge-range 1000
+ :graph/forcesettings {:charge-range 1100
  :charge-strength -900
  :link-dist 70}}
