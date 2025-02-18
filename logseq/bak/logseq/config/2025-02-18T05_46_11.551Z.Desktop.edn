@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["프로젝트 프로젝트 정리" "vim 명령어" "projects" "areas" "resources" "research" "archive" "templates" "면접준비" "스킬시트" "aws cli" "mac 개발환경 구축"]
+ :favorites ["mac 개발환경 초기 설정" "mac 개발환경 구축" "aws" "vim" "git/github" "chrome"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,12 +419,5 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:orphan-pages? true
- :journal? false
- :builtin-pages? false
- :excluded-pages? true}
- :feature/enable-timetracking? false
- :journal/page-title-format "yyyy/MM/dd"
- :graph/forcesettings {:charge-range 1600
- :charge-strength -900
- :link-dist 70}}
+ :graph/settings {:orphan-pages? true}
+ :feature/enable-timetracking? false}
