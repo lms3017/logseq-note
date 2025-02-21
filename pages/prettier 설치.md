@@ -15,6 +15,6 @@
 	- **관련 프로젝트**
 	- **영역**
 	- **태그**
-		- #vscode #extention #prettier
+		- #vscode #extention #prettier #설정
 	- **메모**
 -
