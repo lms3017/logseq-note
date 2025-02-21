@@ -17,24 +17,8 @@
 			  collapsed:: true
 				- raycast에 포함됨
 			- loptions+: 로지텍 제품 관리
-			- nvm: node 패키지 메니저
-			  collapsed:: true
-				- 환경변수 설정
-				  collapsed:: true
-					- 디렉토리 생성
-						- ```shell
-						  mkdir ~/.nvm
-						  ```
-					- .zshrc 설정
-						- ```shell
-						  export NVM_DIR="$HOME/.nvm"
-						  [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
-						  [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
-						  ```
-					- 적용
-						- ```shell
-						  source ~/.zshrc
-						  ```
+			- nvm: node 패키지 매니저
+				- [[nvm 설치]]
 			- slack
 			- postman
 			- notion
