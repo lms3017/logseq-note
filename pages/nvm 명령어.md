@@ -1,6 +1,9 @@
 - #resources research
 	- **내용**
-		- 내용 작성
+		- 최신 LTS(Long Term Support) 버전 설치
+			- ```
+			  nvm install --lts
+			  ```
 		- nvm 버전확인
 			- ```shell
 			  nvm -v
@@ -24,3 +27,4 @@
 	- **태그**
 		- #nvm #명령어
 	- **메모**
+-
