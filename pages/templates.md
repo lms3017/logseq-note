@@ -1,4 +1,5 @@
 template:: project
+project
 
 	- **시작일** :
 	- **완료 예정일** :
@@ -10,18 +11,15 @@ template:: project
 -
 -
 - template:: area
-  areas
+  area
 	- **설명**
 		- 설명 작성
 	- **메모**
 		- 메모 작성
 -
 - template:: resource
-  resources
+  resource
 	- **내용**
 	- **출처**
-	- **참조**
-	- **관련 프로젝트**
-	- **영역**
 	- **태그**
 	- **메모**
