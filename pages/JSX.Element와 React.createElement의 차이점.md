@@ -1,4 +1,4 @@
-- #resources research
+- resource
 	- **내용**
 		- JSX.Element
 			- JSX 구문으로 생성된 React 요소의 타입을 나타냄
