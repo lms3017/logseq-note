@@ -11,6 +11,7 @@
 	- [[pyenv 명령어 및 사용법]]
 	- [[iTerm2 설치]]
 	- [[doker 설치]]
+	- [[prettier 설치]]
 	- [[git, github ssh 설정]]
 	- [[git, github ssh 명령어]]
 	- [[AWS CLI 명령어]]
