@@ -1,6 +1,5 @@
-- #resources research
+- resource
 	- **내용**
-	  collapsed:: true
 		- 설치
 			- ```shell
 			  brew install nvm
@@ -20,9 +19,6 @@
 				- ```shell
 				  source ~/.zshrc
 				  ```
-	- **관련 프로젝트**
-	- **영역**
-		- [[프로그래밍]]
 	- **출처**
 		- [NODE-📚-NVM-모듈-사용법-노드-버전-관리](https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-NVM-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%85%B8%EB%93%9C-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC)
 	- **태그**
