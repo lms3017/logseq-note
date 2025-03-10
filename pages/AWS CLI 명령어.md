@@ -1,4 +1,4 @@
-- #resources research
+- resource
 	- **내용**
 		- IAM
 			- 사용자 그룹
