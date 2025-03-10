@@ -5,6 +5,7 @@
 	- [[nvm 설치]]
 	- [[vscode 설치]]
 	- [[homebrew 설치]]
+	- [[pyenv 설치]]
 	- [[iTerm2 설치]]
 	- [[doker 설치]]
 	- [[git, github ssh 설정]]

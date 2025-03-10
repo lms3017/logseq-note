@@ -1,4 +1,4 @@
-- #resources research
+- resource
 	- **내용**
 		- 설치관련
 			- ```
@@ -21,9 +21,6 @@
 			  nvm current                 # 현재 사용 중인 Node.js 버전 확인
 			  node -v                     # 현재 Node.js 버전 확인 (nvm 외부 명령어)
 			  ```
-	- **관련 프로젝트**
-	- **영역**
-		- [[프로그래밍]]
 	- **출처**
 	- **태그**
 		- #nvm #명령어
