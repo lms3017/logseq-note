@@ -1,4 +1,4 @@
-- #resources research
+- resource
 	- **내용**
 		- 설치
 			- ```
