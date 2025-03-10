@@ -1,4 +1,4 @@
-- #resources research
+- resource
 	- **내용**
 		- vscode 익스텐션 탭에서 **Prettier - Code formatter** 검색후 설치
 		- 기본 설정
@@ -11,8 +11,6 @@
 				  
 				  ```
 	- **출처**
-	- **참조**
-	- **관련 프로젝트**
 	- **영역**
 	- **태그**
 		- #vscode #extention #prettier #설정
