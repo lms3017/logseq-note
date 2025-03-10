@@ -1,5 +1,6 @@
 - #resources research
 	- **내용**
+	  collapsed:: true
 		- 설치
 			- ```shell
 			  brew install nvm

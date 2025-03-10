@@ -1,5 +1,4 @@
 template:: project
-projects
 
 	- **시작일** :
 	- **완료 예정일** :
@@ -8,6 +7,7 @@ projects
 	- DONE **진행 상황**
 	- **메모**
 		- 메모 작성
+-
 -
 - template:: area
   areas
