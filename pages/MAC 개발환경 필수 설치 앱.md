@@ -12,7 +12,6 @@
 			- appcleaner: 앱 완전 삭제
 			- raycast: 스포트라이트 대용
 			- ~~rectangle: 창 위치 이동 단축키~~
-			  collapsed:: true
 				- raycast에 포함됨
 			- loptions+: 로지텍 제품 관리
 			- nvm: node 패키지 매니저
