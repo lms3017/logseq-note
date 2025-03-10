@@ -18,10 +18,9 @@ projects
 		- 메모 작성
 -
 - template:: resource
-  resources research
+  resources
 	- **내용**
 	- **출처**
-	- **참조**
 	- **관련 프로젝트**
 	- **영역**
 	- **태그**
