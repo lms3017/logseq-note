@@ -1,4 +1,4 @@
-- #resources
+- resource
 	- **내용**
 		- 설치
 			- ```shell
