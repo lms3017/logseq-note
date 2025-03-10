@@ -1,4 +1,4 @@
-- #resources
+- resources
 	- **내용**
 		- homebrew : 설치 매니저
 			- mas: 홈브루에서 설치 안되는 앱 설치용
