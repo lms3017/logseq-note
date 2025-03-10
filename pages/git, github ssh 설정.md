@@ -1,4 +1,4 @@
-- #resources
+- resource
 	- **내용**
 		- ```shell
 		  cd ~/.ssh ## 없으면 디렉토리 생성 후 이동
