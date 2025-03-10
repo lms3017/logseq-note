@@ -8,11 +8,9 @@
 			- iina: 동영상 플레이어
 			- aldente: 배터리 관리
 			- visual-studio-code: 편집기
-				- [[vscode 설치 및 설정방법]]
 			- keyboardcleantool: 키보드 청소용
 			- appcleaner: 앱 완전 삭제
 			- raycast: 스포트라이트 대용
-				- [[raycast 설치 및 설정방법]]
 			- ~~rectangle: 창 위치 이동 단축키~~
 			  collapsed:: true
 				- raycast에 포함됨
