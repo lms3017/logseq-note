@@ -1,4 +1,4 @@
-- resources #research
+- #resources
 	- **내용**
 		- ```shell
 		  #!/bin/bash
@@ -47,3 +47,4 @@
 	- **태그**
 		- #mac #개발환경
 	- **메모**
+		- LATER 작성중
