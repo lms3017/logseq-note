@@ -16,8 +16,6 @@
 				- raycast에 포함됨
 			- loptions+: 로지텍 제품 관리
 			- nvm: node 패키지 매니저
-			  collapsed:: true
-				- [[nvm 설치]]
 			- slack
 			- postman
 			- notion
