@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :todo
+ :preferred-workflow :now
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["프로젝트 프로젝트 정리" "vim 명령어" "projects" "areas" "resources" "research" "archive" "templates" "면접준비" "스킬시트" "aws cli" "mac 개발환경 구축"]
+ :favorites ["프로젝트 프로젝트 정리" "vim 명령어" "projects" "areas" "resources" "research" "archive" "templates" "스킬시트" "aws cli" "mac 개발환경 구축"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -425,6 +425,6 @@
  :excluded-pages? true}
  :feature/enable-timetracking? false
  :journal/page-title-format "yyyy/MM/dd"
- :graph/forcesettings {:charge-range 3200
+ :graph/forcesettings {:charge-range 1100
  :charge-strength -900
  :link-dist 70}}
