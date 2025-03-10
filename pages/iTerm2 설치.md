@@ -62,9 +62,6 @@
 		- 상태바 설정
 			- configure status bar클릭 -> 추가하고 싶은 거 추가
 				- ![image.png](../assets/image_1713944351283_0.png){:height 443, :width 687}
-	- **관련 프로젝트**
-	- **영역**
-		- [[프로그래밍]]
 	- **출처**
 	- **태그**
 		- #iTerm2 #설치
