@@ -6,6 +6,11 @@
 				- ```apl
 				  ssh -T git@[호스트 별칭]
 				  ```
+		- git fetch
+			- 삭제된 원격 브랜치 최신화
+				- ```shell
+				  git fetch --prune
+				  ```
 		- git commit
 		  collapsed:: true
 			- 가장 최근의 커밋 수정
