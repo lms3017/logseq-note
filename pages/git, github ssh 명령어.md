@@ -1,7 +1,6 @@
 - resource
 	- **내용**
 		- ssh
-		  collapsed:: true
 			- ssh 연결확인
 				- ```apl
 				  ssh -T git@[호스트 별칭]
@@ -12,14 +11,15 @@
 				  git fetch --prune
 				  ```
 		- git commit
-		  collapsed:: true
 			- 가장 최근의 커밋 수정
 				- ```shell
 				  git commit --amend
 				  ```
 		- git branch
 			- 로컬 브렌치 원격 레파지토리 연결 확인
-				- git branch -vv
+				- ```shell
+				  git branch -vv
+				  ```
 			- 현재 위치한 브렌치명 변경
 				- ```shell
 				  git branch -m [새로운 브렌치명]
@@ -33,7 +33,6 @@
 				  git branch -d [대상 브랜치명]
 				  ```
 		- git reset
-		  collapsed:: true
 			- 대상 커밋 이후의 커밋을 취소하고 커밋 내용을 워킹 디렉토리로 이동
 				- ```shell
 				  # 기본설정
@@ -44,7 +43,6 @@
 				  git reset --soft [HEAD~숫자입력 or 해쉬코드]
 				  ```
 			- 대상 커밋 이후의 커밋을 취소하고 커밋 내용을 완전히 삭제
-			  collapsed:: true
 				- ```shell
 				  git reset --hard [HEAD~숫자입력 or 해쉬코드]
 				  ```
