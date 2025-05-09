@@ -1,12 +1,21 @@
 - 프로그래밍
+	- 설치
+		- [[nvm 설치]]
+		- [[vscode 설치]]
+		- [[homebrew 설치]]
+		- [[pyenv 설치]]
+		- [[iTerm2 설치]]
+		- [[doker 설치]]
+		- [[prettier 설치]]
 	- 단축키, 명령어
-	  collapsed:: true
+		- [[nvm 명령어]]
 		- [[chrome 단축키]]
 		- [[pyenv 명령어 및 사용법]]
 		- [[AWS CLI 명령어]]
 		- [[git, github ssh 명령어]]
 		- [[vim 단축키]]
 	- 방통대
+	  collapsed:: true
 		- [[데이터 베이스 시스템]]
 		- [[컴파일러 구성]]
 		- [[정보통신망 기말 정리]]
